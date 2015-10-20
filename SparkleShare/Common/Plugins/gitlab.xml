@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sparkleshare>
+  <plugin>
+    <info>
+        <name>GitLab</name>
+        <description>Free hosting on GitLab.com opensource platorm</description>
+        <icon>gitlab.png</icon>
+        <backend>Git</backend>
+        <fingerprint>b6:03:0e:39:97:9e:d0:e7:24:ce:a3:77:3e:01:42:09</fingerprint>
+    </info>
+    <address>
+      <value>ssh://git@gitlab.com/</value>
+      <example/>
+    </address>
+    <path>
+      <value/>
+      <example>/username/project.git</example>
+    </path>
+  </plugin>
+</sparkleshare>
